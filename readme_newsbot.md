@@ -36,7 +36,7 @@ NewsHubBot adalah project pembelajaran Python yang mendemonstrasikan cara membua
    - Masukkan username bot (harus diakhiri dengan 'bot', contoh: `mynewsbot` atau `my_news_bot`)
 5. BotFather akan memberikan **token** seperti ini:
    ```
-   8227141991:AAFl8PbUroJn2puTRq5v5esw8gY70Fa_m0Q
+   87123712:12314UroJn2puTRq5v5esw8gY70Fa_m0Q
    ```
 6. **SIMPAN TOKEN INI dengan aman!** Token ini adalah kunci akses bot Anda.
 
